@@ -1,0 +1,52 @@
+# Visual Studio / .NET
+## Ignore Visual Studio temporary files, build results, and generated files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+[Ll]ogs/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used restoring MSAccess and other tools
+!**/packages/build/
+
+# Roslyn files
+*.roslynidicache
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
+
+# User-specific files
+*. DotSettings.user
+*.DS_Store
+
+# SQLite
+# Ignore journal files and write-ahead logs
+# but DO NOT ignore the main .db file if it's meant to be part of the repo source
+# (like our taskmanager.db in the project root).
+# If taskmanager.db was ONLY in bin/obj, it would be ignored by the [Bb]in/ [Oo]bj/ rules above.
+*-journal
+*-wal
+*-shm
+
+# Specific to this project if taskmanager.db was *only* a generated output,
+# but we want the one in the project root to be committed.
+# So, no explicit ignore for taskmanager.db here.
