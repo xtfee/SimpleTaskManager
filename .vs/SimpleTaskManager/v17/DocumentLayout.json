@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|c:\\users\\tfee0\\onedrive\\pulpit\\simpletaskmanager\\simpletaskmanager\\modele\\elementzadania.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|solutionrelative:simpletaskmanager\\modele\\elementzadania.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|c:\\users\\tfee0\\onedrive\\pulpit\\simpletaskmanager\\simpletaskmanager\\modele\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|solutionrelative:simpletaskmanager\\modele\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|c:\\users\\tfee0\\onedrive\\pulpit\\simpletaskmanager\\simpletaskmanager\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|solutionrelative:simpletaskmanager\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|c:\\users\\tfee0\\onedrive\\pulpit\\simpletaskmanager\\simpletaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|solutionrelative:simpletaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|c:\\users\\tfee0\\onedrive\\pulpit\\simpletaskmanager\\simpletaskmanager\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|solutionrelative:simpletaskmanager\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|c:\\users\\tfee0\\onedrive\\pulpit\\simpletaskmanager\\simpletaskmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|solutionrelative:simpletaskmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|c:\\users\\tfee0\\onedrive\\pulpit\\simpletaskmanager\\simpletaskmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818C8F14-8F1C-486C-A994-59BEF7CCEAF1}|SimpleTaskManager\\SimpleTaskManager.csproj|solutionrelative:simpletaskmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleTaskManager\\Program.cs",
+              "ToolTip": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\Program.cs",
+              "RelativeToolTip": "SimpleTaskManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:53:26.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "SimpleTaskManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\MainForm.cs [Projekt]",
+              "RelativeToolTip": "SimpleTaskManager\\MainForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:34:02.518Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "SimpleTaskManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\MainForm.cs",
+              "RelativeToolTip": "SimpleTaskManager\\MainForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:11:14.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\DataService.cs",
+              "RelativeDocumentMoniker": "SimpleTaskManager\\DataService.cs",
+              "ToolTip": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\DataService.cs",
+              "RelativeToolTip": "SimpleTaskManager\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:50:43.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\TaskContext.cs",
+              "RelativeDocumentMoniker": "SimpleTaskManager\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\TaskContext.cs",
+              "RelativeToolTip": "SimpleTaskManager\\TaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:50:16.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElementZadania.cs",
+              "DocumentMoniker": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\Modele\\ElementZadania.cs",
+              "RelativeDocumentMoniker": "SimpleTaskManager\\Modele\\ElementZadania.cs",
+              "ToolTip": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\Modele\\ElementZadania.cs",
+              "RelativeToolTip": "SimpleTaskManager\\Modele\\ElementZadania.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:49:37.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kategoria.cs",
+              "DocumentMoniker": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\Modele\\Kategoria.cs",
+              "RelativeDocumentMoniker": "SimpleTaskManager\\Modele\\Kategoria.cs",
+              "ToolTip": "C:\\Users\\tfee0\\OneDrive\\Pulpit\\SimpleTaskManager\\SimpleTaskManager\\Modele\\Kategoria.cs",
+              "RelativeToolTip": "SimpleTaskManager\\Modele\\Kategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:48:59.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
